@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I'm 18 years old and have 30+ client projects**
 
-> Most of my repositories that is uploaded in github are all private because it contains a code that I can't share with anyone or it's a property of my clients. If you wanted to see my codes, please contact me at [https://raldincasidar.ga/contact](https://raldincasidar.ga/contact)
+> Most of my repositories that is uploaded in github are all private because it contains a code that I can't share with anyone or it's a property of my clients. If you want to see my codes, please contact me at [https://raldincasidar.ga/contact](https://raldincasidar.ga/contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
