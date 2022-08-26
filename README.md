@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I'm 18 years old and have 30+ client projects**
 
+> Most of my projects that is uploaded in github are all private because it contains a code that I can't share with anyone or it's a property of my clients. If you wanted to see my codes, please contact me at [https://raldincasidar.ga/contact](https://raldincasidar.ga/contact)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/raldincasidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raldincasidar" height="30" width="40" /></a>
