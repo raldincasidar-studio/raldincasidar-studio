@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web & Mobile App Developer | UI/UX Designer
 ------------------------------------------------------
 
-I've been coding since 2014 when I was in 5th grade and got my first project for a client when I was in 8th grade. Today, I'm a professional freelancer
+I've been coding since 2014 when I was in 5th grade and got my first project for a client when I was in 8th grade. Today, I'm a professional freelance full stack web developer and designer
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [Raldin Casidar Studios](http://raldincasidar.ga/)
