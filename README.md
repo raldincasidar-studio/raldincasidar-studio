@@ -9,7 +9,7 @@ I've been coding since 2014 when I was in 5th grade and got my first project for
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [Raldin Casidar Studios](http://raldincasidar.ga/)
 * ✉️  You can contact me at [raldin.disomimba13@gmail.com](mailto:raldin.disomimba13@gmail.com)
-* 🚀  I'm currently working on [EJ Appliances Trading](http://raldincasidar.ga/resources)
+* 🚀  I'm currently working on [PCAAT Voting App](http://raldincasidar.ga/resources)
 * 🧠  I'm learning Flutter & Dart
 * 🤝  I'm open to collaborating on a new client project
 * ⚡  I'm 18 years old and finished over 30+ projects
