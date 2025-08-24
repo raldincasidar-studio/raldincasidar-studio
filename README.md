@@ -7,7 +7,7 @@ Full Stack Web & Mobile App Developer | UI/UX Designer
 I've been coding since 2014 when I was in 5th grade and got my first project for a client when I was in 8th grade. Today, I'm a professional freelance full stack web developer and designer
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [Raldin Casidar Studios](http://raldin-casidar.netlify.app/)
+* 🖥️  See my portfolio at [Raldin Casidar Studios](http://raldincasidar.studio/)
 * ✉️  You can contact me at [raldin.disomimba13@gmail.com](mailto:raldin.disomimba13@gmail.com)
 * 🚀  I'm currently working on [Digital Squad Project](http://raldin-casidar.netlify.app/resources)
 * 🧠  I'm learning Laravel
