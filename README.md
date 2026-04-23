@@ -49,14 +49,14 @@
 const raldin = {
   name:        "Raldin Casidar Disomimba",
   alias:       "raldincasidar-studio",
-  age:         19,
+  age:         21,
   location:    "🇵🇭 Philippines",
   codingSince: 2014,   // 5th grade, age 8
   firstClient: 2019,   // 8th grade
   projects:    "30+",
 
   roles: [
-    "Senior Full Stack Web Developer",
+    "Full Stack Web Developer",
     "Mobile App Developer",
     "UI/UX Designer",
     "Freelance Creative Technologist",
