@@ -1,54 +1,195 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raldin Casidar Disomimba
-================================================================================================================================================
+<div align="center">
 
-Full Stack Web & Mobile App Developer | UI/UX Designer
-------------------------------------------------------
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:22c55e&height=200&section=header&text=Raldin%20Casidar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20%F0%9F%87%B5%F0%9F%87%AD%20Philippines&descAlignY=58&descSize=18&animation=fadeIn" />
 
-I've been coding since 2014 when I was in 5th grade and got my first project for a client when I was in 8th grade. Today, I'm a professional freelance full stack web developer and designer
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%26+Creative+Technologist+%F0%9F%8E%A8;Mobile+App+Developer+(Expo+%2F+React+Native)+%F0%9F%93%B1;Open+for+Freelance+%26+Commission+%F0%9F%92%BC;Coding+since+2014+%E2%80%94+started+at+age+8+%F0%9F%A7%A0;30%2B+Projects+Shipped+%E2%9C%85" alt="Typing SVG" />
+</a>
 
-* 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [Raldin Casidar Studios](http://raldincasidar.studio/)
-* ✉️  You can contact me at [raldin.disomimba13@gmail.com](mailto:raldin.disomimba13@gmail.com)
-* 🚀  I'm currently working on [Digital Squad Project](http://raldin-casidar.netlify.app/resources)
-* 🧠  I'm learning Laravel
-* 🤝  I'm open to collaborating on a new client project
-* ⚡  I'm 18 years old and finished over 30+ projects
+<br/>
 
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<!-- SOCIAL BADGES ROW -->
+<p>
+  <a href="https://raldincasidar.studio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-raldincasidar.studio-22c55e?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/raldincasidar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-raldincasidar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/raldincasidar" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-raldincasidar-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nidlarradisac" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-nidlarradisac-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://dev.to/raldincasidar" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-raldincasidar-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/raldincasidar" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-raldincasidar-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=raldincasidar-studio&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/raldincasidar-studio?style=for-the-badge&color=22c55e&labelColor=0f172a&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/OPEN%20FOR-COMMISSION-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.dev.to/dev-raldin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/raldincasidar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/raldincasidar-studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nidlarradisac" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/raldincasidar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10185960" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/raldincasidar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+## 🧬 About Me
 
-<b>My GitHub Stats</b>
+```ts
+const raldin = {
+  name:        "Raldin Casidar Disomimba",
+  alias:       "raldincasidar-studio",
+  age:         19,
+  location:    "🇵🇭 Philippines",
+  codingSince: 2014,   // 5th grade, age 8
+  firstClient: 2019,   // 8th grade
+  projects:    "30+",
 
-<a href="http://www.github.com/raldincasidar-studio"><img src="https://github-readme-stats.vercel.app/api?username=raldincasidar-studio&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="raldincasidar-studio's GitHub stats" /></a>
+  roles: [
+    "Senior Full Stack Web Developer",
+    "Mobile App Developer",
+    "UI/UX Designer",
+    "Freelance Creative Technologist",
+  ],
 
-<a href="http://www.github.com/raldincasidar-studio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raldincasidar-studio&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  currentlyWorking: "Digital Squad Project",
+  currentlyLearning: "Laravel & Advanced Backend Architecture",
+  openTo:       ["Freelance", "Commission", "Collaboration"],
 
-<a href="http://www.github.com/raldincasidar-studio"><img src="https://activity-graph.herokuapp.com/graph?username=raldincasidar-studio&bg_color=0f172a&color=ffffff&line=22c55e&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  contact: "raldin.disomimba13@gmail.com",
+  portfolio: "https://raldincasidar.studio/",
+};
+```
 
-<a href="https://github.com/raldincasidar-studio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raldincasidar-studio&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## ⚡ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,tailwind,materialui&theme=dark" />
+</p>
+
+### 🔧 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,firebase&theme=dark" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript&theme=dark" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd&theme=dark" />
+</p>
+
+### 🛠 Dev Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raldincasidar-studio&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&custom_title=Raldin's+GitHub+Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raldincasidar-studio&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raldincasidar-studio&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=raldincasidar-studio&theme=matrix&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=raldincasidar-studio&bg_color=0f172a&color=22c55e&line=22c55e&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=Raldin's%20Contribution%20Graph" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/raldincasidar-studio/rcsocial">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=rcsocial&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
+</a>
+<a href="https://github.com/raldincasidar-studio/bbud">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=bbud&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
+</a>
+<a href="https://github.com/raldincasidar-studio/quickrant">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=quickrant&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
+</a>
+<a href="https://github.com/raldincasidar-studio/covax-epassport-landing-page">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=covax-epassport-landing-page&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+| 🗓️ Year | 🏅 Milestone |
+|--------|-------------|
+| 2014 | 💡 Wrote my first line of code — 5th grade, age 8 |
+| 2019 | 💼 Landed my very first paying client — 8th grade |
+| 2021 | 🚀 Started building full-stack web apps professionally |
+| 2023 | 📱 Expanded into mobile dev with Expo & React Native |
+| 2024 | 🎨 Completed 30+ client projects across PH & abroad |
+| 2025 | 🌐 Launched **raldincasidar.studio** portfolio |
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+---
+
+## 📬 Let's Connect & Build Something Amazing
+
+<div align="center">
+
+> *"I don't just build websites — I craft digital experiences that leave a mark."*
+> — Raldin Casidar
+
+<br/>
+
+<a href="mailto:raldin.disomimba13@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-raldin.disomimba13%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://raldincasidar.studio/">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-raldincasidar.studio-22c55e?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:1e3a5f,100:0f172a&height=120&section=footer&animation=fadeIn" />
+
+</div>
