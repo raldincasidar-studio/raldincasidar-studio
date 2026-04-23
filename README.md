@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%26+Creative+Technologist+%F0%9F%8E%A8;Mobile+App+Developer+(Expo+%2F+React+Native)+%F0%9F%93%B1;Open+for+Freelance+%26+Commission+%F0%9F%92%BC;Coding+since+2014+%E2%80%94+started+at+age+8+%F0%9F%A7%A0;30%2B+Projects+Shipped+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%26+Creative+Technologist+%F0%9F%8E%A8;Mobile+App+Developer+(Expo+%2F+React+Native)+%F0%9F%93%B1;Open+for+Freelance+%26+Commission+%F0%9F%92%BC;Coding+since+2014+%E2%80%94+started+at+age+12+%F0%9F%A7%A0;30%2B+Projects+Shipped+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -51,7 +51,7 @@ const raldin = {
   alias:       "raldincasidar-studio",
   age:         21,
   location:    "🇵🇭 Philippines",
-  codingSince: 2014,   // 5th grade, age 8
+  codingSince: 2014,   // 5th grade, age 12
   firstClient: 2019,   // 8th grade
   projects:    "30+",
 
