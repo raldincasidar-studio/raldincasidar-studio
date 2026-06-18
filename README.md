@@ -62,8 +62,8 @@ const raldin = {
     "Freelance Creative Technologist",
   ],
 
-  currentlyWorking: "Digital Squad Project",
-  currentlyLearning: "Laravel & Advanced Backend Architecture",
+  currentlyWorking: "Raldin Casidar Studio",
+  currentlyLearning: "Agentic AI, RAG, Javascript Advanced",
   openTo:       ["Freelance", "Commission", "Collaboration"],
 
   contact: "raldin.disomimba13@gmail.com",
