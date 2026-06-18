@@ -130,17 +130,17 @@ const raldin = {
 
 <div align="center">
 
-<a href="https://github.com/raldincasidar-studio/rcsocial">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=rcsocial&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
+<a href="https://github.com/raldincasidar-studio/ccs-election-sg">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=ccs-election-sg&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
 </a>
-<a href="https://github.com/raldincasidar-studio/bbud">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=bbud&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
+<a href="https://github.com/raldincasidar-studio/C7-Portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=C7-Portfolio&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
 </a>
-<a href="https://github.com/raldincasidar-studio/quickrant">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=quickrant&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
+<a href="https://github.com/raldincasidar-studio/JLMS-Portal">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=JLMS-Portal&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
 </a>
-<a href="https://github.com/raldincasidar-studio/covax-epassport-landing-page">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=covax-epassport-landing-page&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
+<a href="https://github.com/raldincasidar-studio/shein-revamp">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raldincasidar-studio&repo=shein-revamp&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true" />
 </a>
 
 </div>
